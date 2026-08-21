@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Exercicio1.Executar();

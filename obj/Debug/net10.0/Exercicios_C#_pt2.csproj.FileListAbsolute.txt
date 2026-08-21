@@ -1,0 +1,15 @@
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\bin\Debug\net10.0\Exercicios_C#_pt2.exe
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\bin\Debug\net10.0\Exercicios_C#_pt2.deps.json
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\bin\Debug\net10.0\Exercicios_C#_pt2.runtimeconfig.json
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\bin\Debug\net10.0\Exercicios_C#_pt2.dll
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\bin\Debug\net10.0\Exercicios_C#_pt2.pdb
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\Exercicios_C#_pt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\Exercicios_C#_pt2.AssemblyInfoInputs.cache
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\Exercicios_C#_pt2.AssemblyInfo.cs
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\Exercicios_C#_pt2.csproj.CoreCompileInputs.cache
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\Exercicios_C#_pt2.sourcelink.json
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\Exercicios_C#_pt2.dll
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\refint\Exercicios_C#_pt2.dll
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\Exercicios_C#_pt2.pdb
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\Exercicios_C#_pt2.genruntimeconfig.cache
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#_pt2\obj\Debug\net10.0\ref\Exercicios_C#_pt2.dll
