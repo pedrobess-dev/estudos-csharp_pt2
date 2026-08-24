@@ -2,16 +2,11 @@ public class Exercicio5
 {
     public static void Executar()
     {
-        int[] nums = new int[5];
+        Console.Write("Insira um número: ");
+        int num = int.Parse(Console.ReadLine());
 
-        for (int i = 0; i < nums.Length; i++)
-        {
-            Console.Write($"Insira o {i + 1}º número: ");
-            nums[i] = int.Parse(Console.ReadLine());
-        }
+        string invertido = new string(num.ToString().Reverse().ToArray());
 
-        Array.Reverse(nums);
-
-        Console.WriteLine(string.Join(" ", nums));
+        Console.WriteLine($"Número invertido: {invertido}");
     }
 }
