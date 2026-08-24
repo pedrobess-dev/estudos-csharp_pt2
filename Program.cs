@@ -1,1 +1,1 @@
-﻿Exercicio3.Executar();
+﻿Exercicio4.Executar();
